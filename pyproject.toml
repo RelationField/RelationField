@@ -1,0 +1,35 @@
+[project]
+name = "relationfield"
+version = "0.1.0"
+
+description = "RelatioField: Relate Anything in Radiance Fields"
+authors = [
+    { name = "Sebastian Koch" },
+    { name = "Johanna Wald" },
+    { name = "Mirco Colosi" },
+    { name = "Narunas Vaskevicius" },
+    { name = "Pedro Hermosilla" },
+    { name = "Federico Tombari" },
+    { name = "Timo Ropinski" },
+]
+
+dependencies = [
+    "nerfstudio>=1.0.0",
+    "transformers",
+    "trimesh",
+    "viser",
+    "torch",
+    "tensorflow",
+    "scikit-learn",
+    "torchtyping",
+    "openai",
+    "einops",
+    "open-clip-torch",
+    "tf-keras",
+]
+
+[tool.setuptools.packages.find]
+include = ["relationfield", "datasets"]
+
+[project.entry-points.'nerfstudio.method_configs']
+relationfield = 'relationfield.relationfield_config:relationfield_method'

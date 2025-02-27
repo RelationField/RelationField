@@ -1,0 +1,8 @@
+# ignore all __pycache__ directories, in .gitignore
+data
+outputs
+*.egg-info/
+**/__pycache__/
+models
+datasets
+renders
