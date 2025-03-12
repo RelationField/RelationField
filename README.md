@@ -125,6 +125,9 @@ ns-viewer --load-config outputs/path_to/config.yml
 Interact with the viewer to visualize relationships:
 
 
+https://github.com/user-attachments/assets/86dc523e-f8b9-4942-a76e-2a19d00abc3a
+
+
 
 ### Utilizing depth data
 RelationField support depth supervision for improved and faster convergence of the NeRF geometry. To activate make sure that depth data is available for your data and run:
