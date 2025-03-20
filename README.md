@@ -6,12 +6,12 @@
 <a href="https://scholar.google.com/citations?user=k4m1c6EAAAAJ">Mirco Colosi</a>,
 <a href="https://scholar.google.com/citations?user=U3KSTwkAAAAJ">Narunas Vaskevicius</a>,
 <a href="https://phermosilla.github.io">Pedro Hermosilla</a>,
-<a href="https://federicotombari.github.io">Federico Tombari</a>
+<a href="https://federicotombari.github.io">Federico Tombari</a>,
 <a href="https://scholar.google.com/citations?user=FuY-lbcAAAAJ">Timo Ropinski</a>
 
 <!-- <h3>venue</h3> -->
 
-<a href="https://arxiv.org/abs/">Paper</a> |
+<a href="https://arxiv.org/abs/2412.13652">Paper</a> |
 <a href="http://relationfield.github.io">Project Page</a>
 
 </span>
